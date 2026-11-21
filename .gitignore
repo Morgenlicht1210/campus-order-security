@@ -1,0 +1,14 @@
+# 运行时生成的文件
+dos_defense_state.txt
+*.log
+
+# 课程报告与隐私文件（含姓名学号，不入库）
+*.doc
+*.docx
+*.pdf
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
